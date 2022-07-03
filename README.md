@@ -60,14 +60,14 @@ Image processing algorithms software developer for CNES & ESA Earth observation 
 ## 💬 Languages
 
 **French**: Native <br>
-**Enlish**: Fluent <br>
-**Spanish** : Notion<br>
+**English**: Fluent <br>
+**Spanish** : Notions<br>
 
 ## 📌 Personal projects
 
 **PESTO** [Github](https://airbusdefenceandspace.github.io/pesto/) _(since 2018)_
 
-Package & deploy your analytics (or any other processing algorithms) made easy. PESTO provides a set of tools to ease the process of packaging python algorithms as a processing web service into a Docker image.<br>
+Packaging & deploying your analytics (or any other processing algorithms) made easy. PESTO provides a set of tools to ease the process of packaging python algorithms as a processing web service into a Docker image.<br>
 
 **_Technologies : Python, REST API, Web Services, Docker_**
 
@@ -81,8 +81,8 @@ Find, convert & backup photos and videos on iOS devices
 
 ### 🏉 Sport
 
-- Freedive
-- Hike 
+- Freediving
+- Hiking
 - Rugby  (_retired_)
 
 ### ⚙ Tech
