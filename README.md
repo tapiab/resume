@@ -1,6 +1,6 @@
 # Benoit Tapia
 
-_Senior remote sensing and computer vision engineer. C++ developer, Linux and open source advocate. Hardware & Tech lover. Based in Toulouse (France)_
+_Senior software and space engineer. C++ developer, Linux and open source advocate. Hardware & Tech lover. Based in Toulouse (France)_
 
 [Email](mailto:benoit.tapia@sidhes.com) /  [LinkedIn](https://linkedin.com/in/benoit-tapia) / [GitHub](https://github.com/tapiab/)
 
@@ -10,13 +10,21 @@ _Senior remote sensing and computer vision engineer. C++ developer, Linux and op
 |:--------------------------------------|:----------------------------------------------------|
 | Image processing & computer vision    | C / C++ / Python / Rust (learning)                  |
 | Applied mathematics                   | Linux (Arch Linux, Ubuntu, Debian, Red Hat)         |
-| Remote Sensing                        | Hardware architecture & optimization (x86_64, ARM)  |
+| Remote Sensing, GNSS                  | Hardware architecture & optimization (x86_64, ARM)  |
 | Space Engineering                     | Cloud computing & architecture                      |
 
 
 ## 💻 Engineering Experience
 
-**Senior remote sensing engineer** @[Airbus Defence & Space](https://www.airbus.com/en/products-services/space) _(July 2021 - Present)_
+**Senior Software Engineer - GNSS System Architect** @[Syntony GNSS](https://syntony-gnss.com/) _(January 2023 - Present)_
+
+Senior software engineer & architect, working on innovative GNSS Solution
+
+- C/C++ & Python developer & real time system architect
+- GNSS algorithms
+- **_Technologies used: C/C++, Python, Ubuntu & Real Time OS_**
+
+**Senior remote sensing engineer** @[Airbus Defence & Space](https://www.airbus.com/en/products-services/space) _(July 2021 - December 2022)_
 
 Lead engineer of Ground Image Processing team.
 
