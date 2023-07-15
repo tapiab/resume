@@ -20,11 +20,11 @@ _Senior software and space engineer. C++ developer, Linux and open source advoca
 
 Senior software engineer & architect, working on innovative GNSS Solution
 
-- C/C++ & Python developer & real time system architect
-- GNSS algorithms
+- C/C++ & Python developer for GNSS simulators & real time system architect
+- Cloud & microservices architecture to offer position enhancement service
 - **_Technologies used: C/C++, Python, Ubuntu & Real Time OS_**
 
-**Senior remote sensing engineer** @[Airbus Defence & Space](https://www.airbus.com/en/products-services/space) _(July 2021 - December 2022)_
+**Lead remote sensing engineer** @[Airbus Defence & Space](https://www.airbus.com/en/products-services/space) _(July 2021 - December 2022)_
 
 Lead engineer of Ground Image Processing team.
 
