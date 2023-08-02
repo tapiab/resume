@@ -73,7 +73,7 @@ Image processing algorithms software developer for CNES & ESA Earth observation 
 
 ## 📌 Personal projects
 
-**PESTO** [Github](https://airbusdefenceandspace.github.io/pesto/) _(since 2018)_
+**PESTO** [Github](https://github.com/AirbusDefenceAndSpace/pesto) _(since 2018)_
 
 Packaging & deploying your analytics (or any other processing algorithms) made easy. PESTO provides a set of tools to ease the process of packaging python algorithms as a processing web service into a Docker image.<br>
 
