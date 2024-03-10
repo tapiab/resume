@@ -16,7 +16,15 @@ _Senior software and space engineer. C++ developer, Linux and open source advoca
 
 ## 💻 Engineering Experience
 
-**Senior Software Engineer - GNSS System Architect** @[Syntony GNSS](https://syntony-gnss.com/) _(January 2023 - Present)_
+**Senior Software Engineer - Virtual Payload Engineer** @[Loft Orbital](https://www.loftorbital.com/) _(December 2023 - Present)_
+
+Senior software engineer & architect, making space simple
+
+- Design & dev of space compute architecture for hosting [virtual missions](https://www.linkedin.com/posts/loft-orbital-solutions_yam-6-the-rise-of-the-virtual-mission-activity-7135722470895984640-e86P)
+- Learning [Sat Dev Ops](https://www.loftorbital.com/post/satdevops)
+- **_Technologies used: C++, Python, Ubuntu, Yocto, Kubernetes, Arm64_**
+
+**Senior Software Engineer - GNSS System Architect** @[Syntony GNSS](https://syntony-gnss.com/) _(January 2023 - November 2023)_
 
 Senior software engineer & architect, working on innovative GNSS Solution
 
